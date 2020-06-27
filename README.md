@@ -1,4 +1,6 @@
 # Data-Mining
+Libraries in environment is limited to requests[security] beautifulsoup4 pycrypto cryptography urllib3
+
 
 ### HW 3 Frequent Pattern Mining 
 
